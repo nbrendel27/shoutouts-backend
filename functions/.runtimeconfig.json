@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+      "uri": "mongodb+srv://admin:redbull@cluster0.fplgmuq.mongodb.net/shout-outs-45a8b?retryWrites=true&w=majority&appName=Cluster0"
+    }
+}
